@@ -19,7 +19,7 @@ public class ATMSystem {
     private static final double SAVINGS_MIN_BALANCE = 1000;
     private static final double CURRENT_MIN_BALANCE = 5000;
     private static final double CURRENT_PENALTY = 200;
-    private static final double SALARY_MAX_WITHDRAWAL = 25000;
+    private static final double SALARY_MAX_WITHDRAWAL = 2500;
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
